@@ -8,9 +8,9 @@
 
 <!-- QUICK INTRO ABOUT ME -->
 <h2 align="center">
-  <span style="font-size: 3em; font-weight: bold;">OBRIAN</span>
+  <span style="font-size: 3em; font-weight: bold;">OBRIAN 🧠🛠️🚀</span>
 </h2>
-<h3 align="center">Hi there i'm your C2</h3>
+<h3 align="center">HI 👋 There I'm Your C2 🎭</h3>
 <h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"THE SOURCE OF WISDOM IS PAIN"</h4>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,7 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ?? Statistics
+## 📊 Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinalegw&theme=github_dark" width="46%" />
 <img align="right" src="https://streak-stats.demolab.com?user=dinalegw&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,7 +37,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ?? GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=dinalegw&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="dinalegw" />
@@ -46,7 +46,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ?? Favorite Quotes
+## ✍️ C2 Favorite Quotes ♻️
 <div align="center">
   <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
 </div>
