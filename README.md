@@ -1,4 +1,4 @@
-﻿<!-- DINA LEGW IMAGE HERO -->
+<!-- DINA LEGW IMAGE HERO -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <!-- PROFILE VIEW AND FOLLOWERS -->
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Statistics
+## ?? Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinalegw&theme=github_dark" width="46%" />
 <img align="right" src="https://streak-stats.demolab.com?user=dinalegw&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,7 +38,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## ?? GitHub Trophies
 <p align="left" style="vertical-align:top; margin:4px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=dinalegw&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="dinalegw" />
@@ -47,9 +47,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ✍️ Favorite Quote
+## ?? Favorite Quotes
 <div align="center">
-  <h3 style="color: #ffd700; font-style: italic;">"FIND A WAY OR FADE AWAY"</h3>
+  <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
+  <h4 style="color: #0ED7FF; font-style: italic;">"Hi there, I am Daniel O Inalegwu (dinalegw)"</h4>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
