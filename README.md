@@ -8,12 +8,10 @@
 
 <!-- QUICK INTRO ABOUT ME -->
 <h2 align="center">
-  <span style="font-size: 3em; font-weight: bold;">OBRIAN</span><br>
-  <span style="font-size: 1.5em; color: #0ED7FF; font-style: italic;">YOUR C2</span>
+  <span style="font-size: 3em; font-weight: bold;">OBRIAN</span>
 </h2>
 <h3 align="center">Hi there i'm your C2</h3>
 <h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"THE SOURCE OF WISDOM IS PAIN"</h4>
-<h5 align="center" style="color: #0ED7FF; font-style: italic; font-size: 1.1em;">"Hi there, I am Daniel O Inalegwu (dinalegw)"</h5>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -51,7 +49,6 @@
 ## ?? Favorite Quotes
 <div align="center">
   <h3 style="color: #ffd700; font-weight: bold;">"THE SOURCE OF WISDOM IS PAIN"</h3>
-  <h4 style="color: #0ED7FF; font-style: italic;">"Hi there, I am Daniel O Inalegwu (dinalegw)"</h4>
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
