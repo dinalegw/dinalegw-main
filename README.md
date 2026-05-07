@@ -11,8 +11,9 @@
   <span style="font-size: 3em; font-weight: bold;">OBRIAN</span><br>
   <span style="font-size: 1.5em; color: #0ED7FF; font-style: italic;">YOUR C2</span>
 </h2>
-<h3 align="center">Hi there, I am Daniel O Inalegwu (dinalegw)</h3>
-<h4 align="center" style="color: #ffd700;">"FIND A WAY OR FADE AWAY"</h4>
+<h3 align="center">Hi there i'm your C2</h3>
+<h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"THE SOURCE OF WISDOM IS PAIN"</h4>
+<h5 align="center" style="color: #0ED7FF; font-style: italic; font-size: 1.1em;">"Hi there, I am Daniel O Inalegwu (dinalegw)"</h5>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
