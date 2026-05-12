@@ -28,9 +28,9 @@
 
 ## 📊 Statistics
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinalegw&theme=github_dark" width="46%" />
-<img align="right" src="https://streak-stats.vercel.app/?user=dinalegw&theme=blue&hide_border=true&card_height=250&background=0d1117" width="46%" alt="GitHub Streak" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dinalegw&theme=blue-green&hide_border=true&background=0d1117&date_format=M%20j%2C%20Y" width="46%" alt="GitHub Streak" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinalegw&theme=github_dark" width="47%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinalegw&theme=blueberry" width="47%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinalegw&theme=github_dark" width="47%" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinalegw&theme=github_dark" style="height: 300px"/>
